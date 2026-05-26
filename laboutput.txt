@@ -1,0 +1,2 @@
+python3: can't open file '/home/cduncan13-vm/ops445/lab2/./CheckLaab2.py': [Errno 2] No such file or directory
+cduncan13@myseenca.ca
